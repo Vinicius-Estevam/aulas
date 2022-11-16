@@ -1,0 +1,11 @@
+p {
+    margin: 30px 15px;
+    padding: 20px 9px;
+    border: solid red 10px;
+    background-color: aquamarine;
+}
+h1 {
+    border-style: solid;
+    border-width: 20px;
+    border-color: green cyan orange blueviolet;
+}

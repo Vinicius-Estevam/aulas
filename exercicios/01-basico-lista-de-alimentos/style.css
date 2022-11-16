@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.produto {
+    font-size: 1.5em;
+    margin: 10px 0 0 30px;
+    padding: 0 0 0 0px;
+    list-style: disc;
+}
+
+.total {
+    list-style: none;
+    font-size: 2em;
+    padding: 0;
+    margin: 20px 0 0 0;
+}
